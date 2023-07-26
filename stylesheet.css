@@ -1,0 +1,77 @@
+body{
+    background: linear-gradient(#00A8AA, #F0F600);
+    text-align: center;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    min-height: 100vh;
+}
+
+  
+
+
+.foto{
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    border-left: solid 8px #9cc29c;
+    border-bottom: solid 5px #9cc29c;
+}
+
+.link{
+    font-family: Arial;
+    font-size: 16px;
+    text-decoration: none;
+    color:whitesmoke;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+.logo{
+    width: 30px;
+}
+
+
+.texto{
+    color: #464545;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: Arial;
+    font-size: 12px;
+}
+
+div{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+ul{
+    list-style: none;
+    margin: 0 auto;
+}
+
+.boton{
+    padding: 8px;
+    background: transparent;
+    font-family: arial;
+    font-size: 16px;
+    font-weight: bold;
+    border: solid 1px #DDFFBB;
+    border-left: solid 4px #DDFFBB;
+    border-bottom: solid 4px #DDFFBB;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.boton:hover{
+    font-size: 18px;
+    background-color:#7FB77E;
+}
+hr{
+    margin-top: 40px;
+}
