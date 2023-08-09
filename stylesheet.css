@@ -1,14 +1,11 @@
 body{
-    background: linear-gradient(#00A8AA, #F0F600);
+    background: linear-gradient(#f6e600, #00A8AA );
     text-align: center;
     justify-content: center;
     padding-left: 20px;
     padding-right: 20px;
     min-height: 100vh;
 }
-
-  
-
 
 .foto{
     width: 120px;
